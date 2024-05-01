@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derek</h1>
 <h3 align="center">A Software Engineering Student at Western University</h3>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/derektan12/Portfolio.git)
+- 🔭 I’m currently working on [a smart toothbrush](https://github.com/derektan12/Portfolio.git)
 
 - 📫 How to reach me **dtan56@uwo.ca**
 
