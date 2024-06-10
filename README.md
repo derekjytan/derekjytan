@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋, I'm Derek</h1>
+<h1 align="center">Hi 👋, I'm Derek</h1>
 <h3 align="center">A Software Engineering Student at Western University</h3>
 
-- 🛠️ I’m currently working on [SongGuessr](https://github.com/derektan12/SongGuessr.git)
+- 🛠️ I’m currently working on [SongGuessr](https://github.com/derekjytan/SongGuessr.git)
 
 - 🌱 I’m currently working at **Robarts Research Institute**
 
