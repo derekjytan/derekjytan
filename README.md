@@ -3,7 +3,7 @@
 
 - 🛠️ I’m currently working on [JetSetGo](https://github.com/derekjytan/JetSetGo.git)
 
-- 🌱 I’m currently working at **Robarts Research Institute**
+- 🌱 I’m currently a software engineer intern at **Mely.ai**
 
 - 👨‍💻 All of my projects are available at [https://derekjytan.com](https://derekjytan.com)
 
