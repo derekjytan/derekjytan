@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Derek</h1>
-<h3 align="center">A Software Engineering Student at Western University</h3>
+<h3 align="center">A Computer Science Student at Western University</h3>
 
 - 🛠️ I’m currently working on [JetSetGo](https://github.com/derekjytan/JetSetGo.git)
 
