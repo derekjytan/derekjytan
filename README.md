@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Derek</h1>
 <h3 align="center">A Computer Science Student at Western University</h3>
 
-- 🛠️ I’m currently working on [Betlify](https://github.com/derekjytan/Betlify.git)
+- 🛠️ I’m currently working on [RayTracer](https://github.com/derekjytan/RayTracer.git)
 
 - 🌱 I’m currently a software engineer intern at **Meta**
 
