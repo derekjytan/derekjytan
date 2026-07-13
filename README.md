@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently a software engineer intern @ **Meta**
 
-- 👨‍💻 All of my projects are available at [https://derekjytan.com/](https://derekjytan.com/)
-
 - 📫 How to reach me **jiayitan2882@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
