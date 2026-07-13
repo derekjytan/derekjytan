@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Derek</h1>
+<h1 align="center">Hey 👋, I'm JiaYi</h1>
 <h3 align="center">Computer Science Student @ Western University</h3>
 
 - 🛠️ I’m currently working on [RayTracer](https://github.com/derekjytan/RayTracer.git)
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://derekjytan.com/](https://derekjytan.com/)
 
-- 📫 How to reach me **dtan56@uwo.ca**
+- 📫 How to reach me **jiayitan2882@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
